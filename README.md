@@ -1,5 +1,5 @@
 # botaoCuriosidadesJS
-um botão de curiosidades para site de internet que eu fiz para um trabalho na ETEC (trabalho interdisciplinar sobre o Capitão Crunch)
+um botão de curiosidades para site de internet que eu fiz para um trabalho na ETEC (trabalho interdisciplinar sobre o Capitão Crunch).
 <br><br>
 
 <div align="center">
